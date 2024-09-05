@@ -14,24 +14,16 @@ Requires VoidManager [VoidManagerVersion]
 
 ### 💡 Function(s)
 
-- [Description]
+- Allows the user to pick up and place items at the same time.
 
 ### 🎮 Client Usage
 
-- 
+- Install
 
 ### 👥 Multiplayer Functionality
 
-
-# Note to mod developer: Remove all but one, and describe any custom functionality.
-- ✅ Client
-  - Only the client needs this mod.
-- ✅ Host
-  - Only the host needs this mod.
 - ✅ Session
   - Requires the room to be marked as Mod_Session.
-- ✅ All
-  - All players must have this mod installed.
 
 ---------------------
 
